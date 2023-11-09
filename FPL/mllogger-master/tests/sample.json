@@ -1,0 +1,7 @@
+{
+    "--lr": ["0.01", "float"],
+    "--momentum": ["0.9", "float"],
+    "--dataset": ["HMDB51", "str"],
+    "--decay_step": [["100", "300", "500"], "int"],
+    "--option": ["None", "NoneType"]
+}

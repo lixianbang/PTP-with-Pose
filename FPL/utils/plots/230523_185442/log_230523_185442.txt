@@ -1,0 +1,3 @@
+2023-05-23 18:54:42,590 [INFO] {'fold_path': 'E:\\person_method/fpl-master\\experiments/5fold_230519_193030/230522_135426', 'traj_type': 0, 'video_ids': 'GOPR0336U20', 'img_ratio': 0.5, 'no_pred': 0, 'debug': 0, 'output_dir': 'plots'}
+2023-05-23 18:54:42,590 [INFO] Written to plots\230523_185442
+2023-05-23 18:54:57,771 [INFO] Elapsed time: 15.180406093597412 (s), Saved at plots\230523_185442

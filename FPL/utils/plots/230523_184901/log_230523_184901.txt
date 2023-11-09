@@ -1,0 +1,2 @@
+2023-05-23 18:49:01,207 [INFO] {'fold_path': './experiments/5fold_230519_193030', 'traj_type': 0, 'video_ids': 'GOPR0336U20', 'img_ratio': 0.5, 'no_pred': 0, 'debug': 0, 'output_dir': 'plots'}
+2023-05-23 18:49:01,207 [INFO] Written to plots\230523_184901

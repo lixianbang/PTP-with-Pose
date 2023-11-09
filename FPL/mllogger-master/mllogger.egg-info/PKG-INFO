@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: mllogger
+Version: 1.0
+Summary: Simple logger and argument management for general experiments.

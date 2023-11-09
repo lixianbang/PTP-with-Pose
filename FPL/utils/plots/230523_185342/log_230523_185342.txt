@@ -1,0 +1,2 @@
+2023-05-23 18:53:42,430 [INFO] {'fold_path': 'E:\\person_method/fpl-master\\experiments/5fold_230519_193030/230522_135426', 'traj_type': 0, 'video_ids': 'GOPR0336U20', 'img_ratio': 0.5, 'no_pred': 0, 'debug': 0, 'output_dir': 'plots'}
+2023-05-23 18:53:42,431 [INFO] Written to plots\230523_185342

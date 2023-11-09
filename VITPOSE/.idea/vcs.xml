@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/22" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/22/apex/contrib/csrc/cudnn-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/22/apex/contrib/csrc/multihead_attn/cutlass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poseval" vcs="Git" />
+  </component>
+</project>
